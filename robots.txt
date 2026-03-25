@@ -1,0 +1,13 @@
+Crawl-delay: 60
+Disallow:/collect/
+Disallow:/nginx
+Disallow:/mysql
+Disallow:/php-fpm
+Disallow:/apache
+Disallow:/prometheus
+Disallow:/sersync2
+Disallow:/tomcat
+Disallow:/redis
+Disallow:/consul
+User-agent: *
+Disallow:
